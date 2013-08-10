@@ -1,0 +1,16 @@
+warp-limits:
+    default: 
+        world: 1
+        world_nether: 1
+        world_the_end: 1
+    vip:
+        world: 3
+        world_nether: 3
+        world_the_end: 3
+spawn-location:
+    x: 0
+    y: 70
+    z: 0
+    pitch: 0.0
+    yaw: 0.0
+    world: world

@@ -1,0 +1,20 @@
+name: Warps
+version: 1.0
+description: warps Plugin
+main: com.gmail.zeusallmighty11.zwarp.ZWarp
+commands:
+    warp:
+        description: Main warp command
+        syntax: /warp [args]
+    setspawn:
+        description: Sets spawn
+        syntax: /setspawn
+    spawn:
+        description: teleports to spawn
+        syntax: /spawn
+    go:
+        description: warps
+        syntax: /warp
+    awarp:
+        description: admin warp
+        syntax: /awarp [args]
